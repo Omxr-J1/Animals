@@ -1,0 +1,15 @@
+/workspaces/Animals/obj/Debug/net10.0/listas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Animals/obj/Debug/net10.0/listas.AssemblyInfoInputs.cache
+/workspaces/Animals/obj/Debug/net10.0/listas.AssemblyInfo.cs
+/workspaces/Animals/obj/Debug/net10.0/listas.csproj.CoreCompileInputs.cache
+/workspaces/Animals/obj/Debug/net10.0/listas.sourcelink.json
+/workspaces/Animals/bin/Debug/net10.0/listas
+/workspaces/Animals/bin/Debug/net10.0/listas.deps.json
+/workspaces/Animals/bin/Debug/net10.0/listas.runtimeconfig.json
+/workspaces/Animals/bin/Debug/net10.0/listas.dll
+/workspaces/Animals/bin/Debug/net10.0/listas.pdb
+/workspaces/Animals/obj/Debug/net10.0/listas.dll
+/workspaces/Animals/obj/Debug/net10.0/refint/listas.dll
+/workspaces/Animals/obj/Debug/net10.0/listas.pdb
+/workspaces/Animals/obj/Debug/net10.0/listas.genruntimeconfig.cache
+/workspaces/Animals/obj/Debug/net10.0/ref/listas.dll
